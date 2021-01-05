@@ -11,7 +11,7 @@
     "@progress/kendo-charts-vue-wrapper": "^2019.2.621",
     "@progress/kendo-theme-default": "^4.2.0",
     "@progress/kendo-ui": "^2019.2.822",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "express": "^4.17.1",
